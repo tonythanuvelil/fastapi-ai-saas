@@ -4,3 +4,5 @@ black==22.10.0
 pylint==2.15.5
 pytest==7.2.0
 fastapi[all]
+awscli==1.26.5
+mangum==0.16.0
